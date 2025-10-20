@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.Vesuvius.gen.cpp.obj": [
-			"Vesuvius.init.gen.cpp.obj",
-			"VesuviusGameModeBase.gen.cpp.obj"
-		]
-	}
-}
