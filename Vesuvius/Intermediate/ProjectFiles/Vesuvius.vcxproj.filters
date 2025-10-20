@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Vesuvius.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Vesuvius.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VesuviusEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Vesuvius">
+      <UniqueIdentifier>{98AE1091-34A2-3A5E-A436-1F1AB5D02849}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Vesuvius\Vesuvius.Build.cs">
+      <Filter>Source\Vesuvius</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Vesuvius\Vesuvius.cpp">
+      <Filter>Source\Vesuvius</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Vesuvius\Vesuvius.h">
+      <Filter>Source\Vesuvius</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Vesuvius\VesuviusGameModeBase.cpp">
+      <Filter>Source\Vesuvius</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Vesuvius\VesuviusGameModeBase.h">
+      <Filter>Source\Vesuvius</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

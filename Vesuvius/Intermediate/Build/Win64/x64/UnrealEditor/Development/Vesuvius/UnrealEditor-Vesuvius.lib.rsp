@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Vesuvius.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/write/Documents/Unreal Projects/Vesuvius/Intermediate/Build/Win64/x64/VesuviusEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/write/Documents/Unreal Projects/Vesuvius/Intermediate/Build/Win64/x64/UnrealEditor/Development/Vesuvius/Module.Vesuvius.gen.cpp.obj"
+"C:/Users/write/Documents/Unreal Projects/Vesuvius/Intermediate/Build/Win64/x64/UnrealEditor/Development/Vesuvius/Vesuvius.cpp.obj"
+"C:/Users/write/Documents/Unreal Projects/Vesuvius/Intermediate/Build/Win64/x64/UnrealEditor/Development/Vesuvius/VesuviusGameModeBase.cpp.obj"
+"C:/Users/write/Documents/Unreal Projects/Vesuvius/Intermediate/Build/Win64/x64/UnrealEditor/Development/Vesuvius/PerModuleInline.gen.cpp.obj"
+"C:/Users/write/Documents/Unreal Projects/Vesuvius/Intermediate/Build/Win64/x64/UnrealEditor/Development/Vesuvius/Default.rc2.res"
+/OUT:"C:/Users/write/Documents/Unreal Projects/Vesuvius/Intermediate/Build/Win64/x64/UnrealEditor/Development/Vesuvius/UnrealEditor-Vesuvius.lib"

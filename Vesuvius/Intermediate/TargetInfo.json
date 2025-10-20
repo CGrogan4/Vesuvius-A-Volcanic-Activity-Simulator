@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Vesuvius",
+			"Path": "..\\Source\\Vesuvius.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VesuviusEditor",
+			"Path": "..\\Source\\VesuviusEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
